@@ -20,7 +20,7 @@ I'm a Final Year B.E. student in **AI & Data Science** at MMCOE Pune. I currentl
 > **Global Recognition:** Selected **Delegate for HCONF 2026** by the **Harvard College Project for Asian & International Relations (HPAIR)** — chosen from a competitive international pool to discuss the future of technology and policy.
 
 ### ⚡ Current Focus (July 2026)
-* 🔭 **Building:** Launching NEXARA — a digital agency offering web/app development, AI automation, and AI agents.
+* 🔭 **Building:** Launching ARCANA — a AI agency offering web/app development, AI automation, and AI agents.
 * 🦀 **Exploring:** Rust for low-latency AI infrastructure (`Claude-Copy`).
 * 🧠 **Working:** Training and evaluating LLMs at Outlier AI — RLHF, agent behavior evaluation, ground-truth prompt authoring.
 
@@ -51,7 +51,7 @@ Production LLM inference platform with a high-volume Scrapy pipeline ingesting *
 | Role | Organisation | Period |
 | :--- | :--- | :--- |
 | 🧠 **AI Training Data Specialist** | Outlier AI | May 2026 – Present |
-| 🚀 **Founder** | NEXARA (Digital Agency) | 2026 – Present |
+| 🚀 **Founder** | ARCANA (AI Agency) | 2026 – Present |
 | 🎓 **Delegate, HCONF 2026** | Harvard College Project for Asian & International Relations | Dec 2025 – Present |
 | 💻 **Full Stack Engineer Intern** | Swifty9 | Oct 2025 – Mar 2026 |
 | 🌐 **Open Source Contributor** | GirlScript Summer of Code (GSSoC) | Jul 2025 |
