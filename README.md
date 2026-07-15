@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Anand Raj 👋</h1>
-  <h3>Full Stack Engineer · AI Researcher · HPAIR 2026 Delegate</h3>
+  <h3>AI Engineer · Full Stack Developer · HPAIR 2026 Delegate</h3>
   <p>Building at the intersection of AI reliability, adversarial systems, and production engineering.</p>
   
   <a href="https://linkedin.com/in/anandraj29" target="_blank">
@@ -15,14 +15,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a 3rd-year B.E. student in **AI & Data Science** at MMCOE Pune, currently interning at **Swifty9** as a Full Stack Engineer. I build production-grade TypeScript/Next.js applications and independently research adaptive AI safety systems.
+I'm a Final Year B.E. student in **AI & Data Science** at MMCOE Pune. I currently work as an **AI Training Data Specialist at Outlier AI**, evaluating and training large language models, and previously interned as a **Full Stack Engineer at Swifty9**, building production TypeScript/Next.js applications.
 
-> **Global Recognition:** I am a selected **Delegate for HCONF 2026** by the **Harvard College Project for Asian & International Relations (HPAIR)** — chosen from a competitive international pool based on leadership potential to discuss the future of technology and policy.
+> **Global Recognition:** Selected **Delegate for HCONF 2026** by the **Harvard College Project for Asian & International Relations (HPAIR)** — chosen from a competitive international pool to discuss the future of technology and policy.
 
-### ⚡ Current Focus (April 2026)
-* 🔭 **Building:** Exploring agentic workflows in Python (`sql-agent-env`).
-* 🦀 **Learning:** Diving into **Rust** for low-latency AI infrastructure (`Claude-Copy`).
-* 💻 **Shipping:** Production TypeScript architecture for `Taksh-Studios`.
+### ⚡ Current Focus (July 2026)
+* 🔭 **Building:** Launching NEXARA — a digital agency offering web/app development, AI automation, and AI agents.
+* 🦀 **Exploring:** Rust for low-latency AI infrastructure (`Claude-Copy`).
+* 🧠 **Working:** Training and evaluating LLMs at Outlier AI — RLHF, agent behavior evaluation, ground-truth prompt authoring.
 
 ---
 
@@ -50,9 +50,17 @@ Production LLM inference platform with a high-volume Scrapy pipeline ingesting *
 
 | Role | Organisation | Period |
 | :--- | :--- | :--- |
+| 🧠 **AI Training Data Specialist** | Outlier AI | May 2026 – Present |
+| 🚀 **Founder** | NEXARA (Digital Agency) | 2026 – Present |
 | 🎓 **Delegate, HCONF 2026** | Harvard College Project for Asian & International Relations | Dec 2025 – Present |
-| 💻 **Full Stack Engineer Intern** | Swifty9 | Oct 2025 – Present |
+| 💻 **Full Stack Engineer Intern** | Swifty9 | Oct 2025 – Mar 2026 |
 | 🌐 **Open Source Contributor** | GirlScript Summer of Code (GSSoC) | Jul 2025 |
+
+---
+
+## 📱 Beyond Tech
+
+Run **WAR Chronicles**, a geopolitics and current affairs Instagram page — **6,800+ followers, 4.1M+ organic views**.
 
 ---
 
@@ -60,8 +68,8 @@ Production LLM inference platform with a high-volume Scrapy pipeline ingesting *
 
 * **Languages:** TypeScript, Python, Rust, JavaScript, C++, SQL
 * **Frontend:** Next.js 14, React, Tailwind CSS, Framer Motion
-* **Backend:** Node.js, Flask, REST APIs, MongoDB, Data Pipelines
-* **AI / LLM:** LLM Fine-Tuning, Phi-3 SLM, YOLOv8, Qiskit Aer, NumPy, Agentic Frameworks
+* **Backend:** Node.js, Flask, FastAPI, REST APIs, MongoDB, Data Pipelines
+* **AI / LLM:** LLM Fine-Tuning, RLHF, Phi-3 SLM, YOLOv8, Qiskit Aer, NumPy, Agentic Frameworks
 * **Tools & Infra:** Docker, Git, Burp Suite, Vercel, Postman
 
 ---
@@ -77,5 +85,5 @@ Production LLM inference platform with a high-volume Scrapy pipeline ingesting *
 <br/>
 
 <div align="center">
-  <i>3rd Year B.E. · AI & Data Science · Marathwada Mitra Mandal's College of Engineering, Pune</i>
+  <i>Final Year B.E. · AI & Data Science · Marathwada Mitra Mandal's College of Engineering, Pune</i>
 </div>
